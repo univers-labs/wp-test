@@ -3,7 +3,7 @@
 Using the XD and/or PDF in this repository, please do the following:
 
 * Create a WordPress installation in any way you like (MAMP/Docker/Vagrant/Local - whatever you usually would do)
-* Use a PageBuilder plugin of your choosing (SiteOrigin Page Builder, Advanced Custom Fields Flexible Content, etc) to implement the design, which is an asymmetrical tile layout.
+* Use a PageBuilder plugin of your choosing (SiteOrigin Page Builder, Advanced Custom Fields Flexible Content, etc) to implement the design as a single, re-useable module.
 * Implement interactivity (rollover states) to your own liking. We'd like to see your creativity here.
 * Use your best judgement to make this responsive.
 
